@@ -14,11 +14,11 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Segue abaixo as minhas redes sociais!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/https://www.instagram.com/gustavo.zielke?igsh=MWV4djg2Z3MzbDg2Mw==" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/discord.gg/RjQTku2M" target="_blank"></a> 
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/https://discord.gg/RjQTku2M" target="_blank"></a> 
   <a href = "mailto:gustavozielke@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/gustavo-zielke-7b5ba81b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
